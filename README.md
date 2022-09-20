@@ -1,1 +1,1 @@
-# exercicios-3.1
+# exercicios-curso
